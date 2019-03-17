@@ -24,7 +24,7 @@ yum install -y xz openssl gawk file
 ```
 ## 2. Download script
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/leonguyen52/installNET/master/InstallNET.sh && chmod -x InstallNET.sh
+wget --no-check-certificate https://raw.githubusercontent.com/ohmyga/installNET/master/InstallNET.sh && chmod -x InstallNET.sh
 ```
 ## 3. Install OS via script
 
